@@ -3,6 +3,8 @@ config.py
 
 # adding addtl files
 API_practice.ipynb
+Untitled.ipynb
+Untitled1.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
